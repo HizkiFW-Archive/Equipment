@@ -58,7 +58,7 @@ Credits for images:
 * ArchangelFryingPan: https://pixabay.com/en/pan-cook-sear-frying-pan-554072/
 * Flaming Sword: made by BenjaminAmos (own work)
 * Wooden Bo Staff: Made by TheJYKoder (own work)
-* Diamond Ring of Juggernauts: Made by TheJYKoder (own work)
+* Diamond Ring of Juggernauts: https://openclipart.org/detail/3967/ring (Recolored)
 * Legendary Lightsaber: Made by meganyyu (own work)
 * Cursed Pendant Of Luck: made by BenjaminAmos (own work)
 * Gold Badge of Luck: made by Anish Sharma (own work)
